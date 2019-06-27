@@ -21,12 +21,19 @@ Using Data :
 ## Requirement
 
 Python = 3.6
+
 Tensorflow >= 1.13.0
+
 Tensorflow-gpu >= 1.13.0
+
 Numpy = 1.16.1
+
 tqdm
+
 opencv-python = 3.4.5
+
 matplotlib
+
 pillow
 
 

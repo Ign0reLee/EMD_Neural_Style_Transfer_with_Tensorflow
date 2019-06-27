@@ -5,8 +5,11 @@ This just studying code and only can Neural transfer
 
 ## Links
 Paper : https://arxiv.org/pdf/1806.05173.pdf
+
 Using Code : https://github.com/machrisaa/tensorflow-vgg
+
 Using Data : http://cocodataset.org/#home
+
              https://www.kaggle.com/c/painter-by-numbers
 
 
